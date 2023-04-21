@@ -3,11 +3,12 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.less'],
+  styleUrls: ['./app.component.less']
 })
 export class AppComponent {
+
   name = 'yochi';
   animal = 'dog';
-  constructor() {}
-  title = 'tests_angular';
+  constructor() { }
+  title = 'basic-angular';
 }

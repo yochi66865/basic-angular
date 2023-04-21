@@ -1,5 +1,5 @@
 {
-  "name": "tests_angular",
+  "name": "basic-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
